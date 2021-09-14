@@ -1,1 +1,1 @@
-This repo is for REA's Pytorch deployment
+This repo is for Pytorch deployment
