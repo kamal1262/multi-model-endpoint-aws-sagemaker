@@ -1,0 +1,10 @@
+{
+  "createdOn": "06/05/2021 08:41:27",
+  "runtime": "python",
+  "model": {
+    "modelName": "MyModel",
+    "handler": "handler_service.py",
+    "modelVersion": "1.0"
+  },
+  "archiverVersion": "0.3.1"
+}

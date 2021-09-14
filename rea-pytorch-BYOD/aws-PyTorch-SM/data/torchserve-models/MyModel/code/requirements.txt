@@ -1,0 +1,8 @@
+# Seems like most or all of these are probably unnecessary. Leaving a few in mostly to demonstrate
+# how requirements.txt can work:
+numpy==1.18.4
+scipy
+scikit-learn
+statsmodels==0.12.1
+tensorboard==2.4.0
+tqdm==4.51.0
